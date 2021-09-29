@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### ✨✨ Hi there 👋 ✨✨
+![Ying's github stats](https://github-readme-stats.vercel.app/api?username=lmxy0212&hide=issues)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=lmxy0212&layout=compact)
 <!--
 **lmxy0212/lmxy0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
