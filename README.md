@@ -1,5 +1,4 @@
 ### ✨✨ Hi there 👋 ✨✨
-#### I'M A MSCS STUDENT CONCENTRATING ON VISION, GRAPHICS, INTERACTION, AND ROBOTICS TRACK AT COLUMBIA UNIVERSITY
 ![Ying's github stats](https://github-readme-stats.vercel.app/api?username=lmxy0212&hide=issues)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=lmxy0212&layout=compact)
 <!--
