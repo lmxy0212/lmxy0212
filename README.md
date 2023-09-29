@@ -1,9 +1,15 @@
 ### ✨✨ Hi there 👋 ✨✨
-![Ying's github stats](https://github-readme-stats.vercel.app/api?username=lmxy0212&hide=issues)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=lmxy0212&layout=compact)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lmxy0212)](https://git.io/streak-stats)
+
 <!--
 **lmxy0212/lmxy0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lmxy0212&hide=issues)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
